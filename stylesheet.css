@@ -1,0 +1,90 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color:Hex #000000 ;
+	text-align: center ; 
+}
+
+body {
+	width:  906px;
+	margin:  0 auto;
+	border:  dotted;
+	border-color: lightpink;
+	background-color: lightskyblue; 
+
+	
+}
+
+nav{
+	background-color:  lightpink;
+	padding:  10px;
+	margin:  10px;
+}
+
+li{
+	display: inline;
+	padding:  5px;
+}
+
+section{
+	overflow: auto;
+	height:  100;
+}
+
+main{
+	background-color: lightpink;
+	padding:  10px;
+	margin:  10px;
+}
+
+article{
+	background-color:  lightpink;
+	padding:  10px;
+	margin:  10px;
+	width:  280px;
+	float:  left;
+}
+
+.home {
+	background-color: lightskyblue;
+}
+
+.travel{
+	background-color: lightskyblue;
+}
+
+.food{
+background-color: lightskyblue;
+}
+
+.dog{
+	background-color: lightskyblue;
+}
+
+h1{
+	color:  darkslateblue;
+}
+
+dl{
+	color:  darkslateblue;
+}
+
+dt{
+	font-size: 25px;
+	color:  darkslateblue;
+}
+
+dd{
+	color:  darkblue;
+}
+
+p{
+	color:  darkblue;
+}
+
+figure{
+	color:  darkslateblue;
+}
+
+h2{
+	color:  darkblue;
+}
